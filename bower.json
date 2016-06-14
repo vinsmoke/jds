@@ -1,0 +1,25 @@
+{
+  "name": "jd",
+  "authors": [
+    "vinsmoke <731107617@qq.com>"
+  ],
+  "description": "jd.html",
+  "main": "jd.html",
+  "keywords": [
+    "jd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "Swiper": "swiper#^3.3.1"
+  }
+}

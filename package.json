@@ -1,0 +1,17 @@
+{
+  "name": "jd",
+  "version": "1.0.0",
+  "description": "jd.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jd"
+  ],
+  "author": "731107617@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "wiredep": "^4.0.0"
+  }
+}
